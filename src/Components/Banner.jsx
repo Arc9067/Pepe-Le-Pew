@@ -17,7 +17,7 @@ const Banner = () => {
             <div
               onClick={() => {
                 setHidden(true);
-                const audio = new Audio("src/assets/sound/sound.mp3");
+                const audio = new Audio("/sound.mp3");
                 audio.play();
               }}
               className="h-[66px] cursor-pointer hover:scale-95 transition p-[3px] rounded-full border border-customYellow justify-center items-center flex"
