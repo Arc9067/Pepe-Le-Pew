@@ -4,13 +4,6 @@ const Footer = () => {
   return (
     <footer className="py-8 w-full">
       <div className="container flex gap-8 flex-col justify-center items-center md:justify-between md:flex-row">
-        <a
-          href=""
-          className="text-center stroke text-stone-950 text-5xl font-Modak"
-        >
-          Pepe le pew
-        </a>
-
         <p className="text-center text-xl">
           Copyright © {new Date().getFullYear()} Pepe Le Pew. All Rights
           Reserved.
