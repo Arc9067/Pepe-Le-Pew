@@ -52,7 +52,11 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" target="_blank" className="">
+          <a
+            href="https://twitter.com/PepeLePewCOIN"
+            target="_blank"
+            className=""
+          >
             <svg
               width="49"
               height="49"
