@@ -5,7 +5,7 @@ const Mics = () => {
   return (
     <div className="py-20 w-full">
       <div className="container flex gap-9 justify-center flex-col items-center">
-        <h1 className="text-center text-neutral-900 font-Modak text-7xl font-normal">
+        <h1 className="text-center stroke text-neutral-900 font-Modak text-6xl font-normal">
           Tokenomics
         </h1>
         <div className="grid w-full grid-cols-1 lg:grid-cols-2 justify-between gap-16">

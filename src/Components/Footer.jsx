@@ -4,7 +4,10 @@ const Footer = () => {
   return (
     <footer className="py-8 w-full">
       <div className="container flex gap-8 flex-col justify-center items-center md:justify-between md:flex-row">
-        <a href="" className="text-center text-stone-950 text-5xl font-Modak">
+        <a
+          href=""
+          className="text-center stroke text-stone-950 text-5xl font-Modak"
+        >
           Pepe le pew
         </a>
         <div className="flex items-center gap-6">

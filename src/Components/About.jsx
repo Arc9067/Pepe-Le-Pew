@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="py-20 w-full">
       <div className="container flex gap-9 justify-center flex-col items-center">
-        <h1 className="text-center text-neutral-900 font-Modak text-7xl font-normal">
+        <h1 className="text-center stroke text-neutral-900 font-Modak text-7xl font-normal">
           Arrest Warrant
         </h1>
         <img src={warrant} className="md:w-[25rem]" alt="" />
