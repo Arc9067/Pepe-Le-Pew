@@ -1,8 +1,7 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 const Banner = () => {
   const [hidden, setHidden] = useState(false);
-
   return (
     <div
       className={`min-h-screen w-full z-50 ${
@@ -18,6 +17,8 @@ const Banner = () => {
             <div
               onClick={() => {
                 setHidden(true);
+                const audio = new Audio("src/assets/sound/sound.mpeg");
+                audio.play();
               }}
               className="h-[66px] hover:scale-95 transition p-[3px] rounded-full border border-customYellow justify-center items-center flex"
             >
