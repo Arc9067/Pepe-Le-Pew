@@ -5,10 +5,12 @@ import Mics from "./Components/Mics";
 import Map from "./Components/Map";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
+import Banner from "./Components/Banner";
 
 const App = () => {
   return (
     <div className="min-h-screen w-full bg-customYellow font-Rakkas">
+      <Banner />
       <Header />
       <Hero />
       <About />

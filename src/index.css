@@ -13,4 +13,8 @@
   .stroke {
     -webkit-text-stroke: 2px white;
   }
+  .abso {
+    background: url(./assets/abso.png) center center no-repeat;
+    background-size: 100% 100%;
+  }
 }
