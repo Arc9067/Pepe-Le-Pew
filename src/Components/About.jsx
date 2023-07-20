@@ -11,14 +11,16 @@ const About = () => {
         </h1>
         <img src={warrant} className="md:w-[25rem]" alt="" />
         <p className="text-center text-neutral-900 font-normal text-xl max-w-3xl leading-relaxed">
-          Pepe and Toad the memecoin Launched on the ethereum. Our mission is to
-          provide a fun, community-driven investment opportunity that celebrates
-          the power of memes and pop culture. With a vision to become the
-          leading memecoin in the market, we believe Pepe and Toad is the
-          perfect addition to any investor’s portfolio. Join us on this journey
-          to revolutionize the world of memecoins. the market, we believe Pepe
-          and Toad is the perfect addition to any investor’s portfolio. Join us
-          on this journey to revolutionize the world of memecoins.
+          BREAKING NEWS: A country wide search for an armed and dangerous
+          individual named “Pepe Le Pew” was underway almost the entire month of
+          July. Pepe Le Pew was booked and charged after prosecutors found him
+          guilty of felony tax evasion, felony theft with intent to distribute
+          about 1,200 wallet private keys and password, and was found with 69
+          kilos of cocaine.
+          <br />
+          <br />
+          Pepe Le Pew has been sentenced to prison in the state of California
+          with a sentence of 420 years.
         </p>
         <img src={Banner} alt="" className="pointer-events-none" />
       </div>
