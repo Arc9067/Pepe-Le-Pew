@@ -20,10 +20,10 @@ const Banner = () => {
                 const audio = new Audio("/sound.mpeg");
                 audio.play();
               }}
-              className="h-[66px] hover:scale-95 transition p-[3px] rounded-full border border-lime-500 justify-center items-center flex"
+              className="h-[66px] hover:scale-95 transition p-[3px] rounded-full border border-customYellow justify-center items-center flex"
             >
-              <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-lime-500 rounded-full justify-center items-center gap-2.5 inline-flex">
-                <div className="text-white text-xl font-normal leading-7 tracking-wider">
+              <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-customYellow rounded-full justify-center items-center gap-2.5 inline-flex">
+                <div className="text-black text-xl font-normal leading-7 tracking-wider">
                   ENTER NOW!
                 </div>
               </div>
