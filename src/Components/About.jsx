@@ -11,12 +11,12 @@ const About = () => {
         </h1>
         <img src={warrant} className="md:w-[25rem]" alt="" />
         <p className="text-center text-neutral-900 font-normal text-xl max-w-3xl leading-relaxed">
-          BREAKING NEWS: A country wide search for an armed and dangerous
-          individual named “Pepe Le Pew” was underway almost the entire month of
-          July. Pepe Le Pew was booked and charged after prosecutors found him
-          guilty of felony tax evasion, felony theft with intent to distribute
-          about 1,200 wallet private keys and password, and was found with 69
-          kilos of cocaine.
+          <strong className="text-2xl">BREAKING NEWS:</strong> A country wide
+          search for an armed and dangerous individual named “Pepe Le Pew” was
+          underway almost the entire month of July. Pepe Le Pew was booked and
+          charged after prosecutors found him guilty of felony tax evasion,
+          felony theft with intent to distribute about 1,200 wallet private keys
+          and password, and was found with 69 kilos of cocaine.
           <br />
           <br />
           Pepe Le Pew has been sentenced to prison in the state of California
