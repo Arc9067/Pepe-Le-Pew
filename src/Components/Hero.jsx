@@ -26,7 +26,7 @@ const Hero = () => {
         className="absolute top-10 w-[5rem] right-0 md:w-max"
       /> */}
       <div className="container gap-7 flex flex-col items-center justify-center">
-        <h1 className="text-center text-white text-8xl lg:text-9xl  font-Modak">
+        <h1 className="text-center text-black text-8xl lg:text-9xl  font-Modak">
           Pepe le pew
         </h1>
 
