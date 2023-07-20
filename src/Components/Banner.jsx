@@ -10,7 +10,7 @@ const Banner = () => {
     >
       <div className="container flex justify-center items-center">
         <article className="w-full md:w-[700px] md:h-[400px] bg-[#F30709] h-[500px] rounded-md  flex justify-center flex-col p-10">
-          <div className="font-Modak break-all text-center text-white text-5xl font-normal leading-[52px] tracking-wide">
+          <div className="font-Modak  text-center text-white text-4xl capitalize font-normal leading-[52px] tracking-wide">
             Get the latest scoop on Pepe le pew’s arrest
           </div>
           <div className="font-Modak mt-6 flex-wrap justify-center items-start gap-4 inline-flex">
