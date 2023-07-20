@@ -1,13 +1,15 @@
 import React from "react";
 import Banner from "../assets/banner1.png";
+import warrant from "../assets/warrant.png";
 
 const About = () => {
   return (
     <div className="py-20 w-full">
       <div className="container flex gap-9 justify-center flex-col items-center">
         <h1 className="text-center text-neutral-900 font-Modak text-7xl font-normal">
-          About Pepe le pew
+          Arrest Warrant
         </h1>
+        <img src={warrant} className="md:w-[25rem]" alt="" />
         <p className="text-center text-neutral-900 font-normal text-xl max-w-3xl leading-relaxed">
           Pepe and Toad the memecoin Launched on the ethereum. Our mission is to
           provide a fun, community-driven investment opportunity that celebrates
@@ -18,7 +20,7 @@ const About = () => {
           and Toad is the perfect addition to any investor’s portfolio. Join us
           on this journey to revolutionize the world of memecoins.
         </p>
-        <img src={Banner} alt="" className="pointer-events-none"/>
+        <img src={Banner} alt="" className="pointer-events-none" />
       </div>
     </div>
   );
