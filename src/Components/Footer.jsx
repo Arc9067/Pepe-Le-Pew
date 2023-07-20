@@ -10,6 +10,11 @@ const Footer = () => {
         >
           Pepe le pew
         </a>
+
+        <p className="text-center text-xl">
+          Copyright © {new Date().getFullYear()} Pepe Le Pew. All Rights
+          Reserved.
+        </p>
         <div className="flex items-center gap-6">
           <a href="" target="_blank" className="">
             <svg
