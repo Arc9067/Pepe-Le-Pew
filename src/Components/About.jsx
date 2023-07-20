@@ -15,8 +15,8 @@ const About = () => {
           search for an armed and dangerous individual named “Pepe Le Pew” was
           underway almost the entire month of July. Pepe Le Pew was booked and
           charged after prosecutors found him guilty of felony tax evasion,
-          felony theft with intent to distribute about 1,200 wallet private keys
-          and password, and was found with 69 kilos of cocaine.
+          felony theft with intent to distribute about 1,200 wallet private
+          keys/password, and was found with 69 kilos of cocaine.
           <br />
           <br />
           Pepe Le Pew has been sentenced to prison in the state of California

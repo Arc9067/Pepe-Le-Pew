@@ -27,7 +27,7 @@ const Mics = () => {
                   total supply
                 </div>
                 <div className="text-center text-black text-[40px] font-normal">
-                  10000000
+                  69,000,000
                 </div>
               </div>
             </div>
@@ -37,7 +37,7 @@ const Mics = () => {
                   Max Wallet
                 </div>
                 <div className="text-center text-neutral-950 text-[40px] font-normal">
-                  5%
+                  2%
                 </div>
               </div>
             </div>
