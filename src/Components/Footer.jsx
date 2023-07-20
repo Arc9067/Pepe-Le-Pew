@@ -9,7 +9,7 @@ const Footer = () => {
           Reserved.
         </p>
         <div className="flex items-center gap-6">
-          <a href="" target="_blank" className="">
+          <a href="https://t.me/PepeLePewENTRY" target="_blank" className="">
             <svg
               width="49"
               height="49"

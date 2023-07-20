@@ -42,7 +42,7 @@ const Hero = () => {
             </div>
           </a>
           <a
-            href=""
+            href="https://t.me/PepeLePewENTRY"
             className="h-[66px] hover:scale-95 transition p-[3px] rounded-full border border-red-400 justify-center items-center flex"
           >
             <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-red-400 rounded-full justify-center items-center gap-2.5 inline-flex">
