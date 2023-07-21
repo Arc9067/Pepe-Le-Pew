@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import lp from "../assets/lp.webp";
 
 const Banner = () => {
   const [hidden, setHidden] = useState(false);
@@ -10,6 +11,7 @@ const Banner = () => {
     >
       <div className="container flex justify-center items-center">
         <article className="w-full md:w-[700px] md:h-[400px] bg-[#F30709] h-[500px] rounded-md  flex justify-center flex-col p-10">
+          <img src={lp} alt="" className="w-[9rem] mx-auto mb-5" />
           <div className="font-Modak  text-center text-white text-4xl capitalize font-normal leading-[52px] tracking-wide">
             Get the latest scoop on Pepe le pew’s arrest
           </div>
